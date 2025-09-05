@@ -23,7 +23,6 @@ Defini todos os elementos padrão para se colocar textos com tamanhos em rem, as
 <p>
 Existe um arquivo starter.html já com as referências necessárias<br>
 <script src="js/jquery-3.4.1.min.js"></script><br>
-<script src="js/lazysizes.min.js"></script><br>
 <script src="js/chlebalize.js"></script><br>
 <!--link rel="stylesheet" href="css/chlebalize.min.css"--><br>
 </p>
